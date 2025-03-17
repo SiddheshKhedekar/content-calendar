@@ -1,4 +1,4 @@
-package com.sid.content_calendar.model;
+package com.sid.content_calendar;
 
 import java.time.LocalDateTime;
 

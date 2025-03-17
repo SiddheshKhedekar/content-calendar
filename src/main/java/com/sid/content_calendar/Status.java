@@ -1,4 +1,4 @@
-package com.sid.content_calendar.model;
+package com.sid.content_calendar;
 
 public enum Status {
     IDEA,
